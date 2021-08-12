@@ -5,3 +5,7 @@ var _ = require("underscore");
 
 const result = _.contains([1, 2, 3], 3);
 console.log(result);
+
+// npm - jshint --save-dev
+// uninstall the package
+// npm un mongoose
